@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom_Spinner</string>
+    <string name="nama">Nama</string>
+    <string name="kabupaten_kota_asal">Kabupaten/Kota Asal</string>
+</resources>
